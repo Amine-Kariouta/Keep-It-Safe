@@ -1,5 +1,3 @@
-# Keep It Safe
-
 ## English
 
 ### Description
@@ -7,13 +5,16 @@ Keep It Safe is a Chrome extension designed to filter toxicity and negativity wh
 
 ### Installation
 
-1. **Clone the repository:**
+1. **Install LM Studio**  
+   Make sure LM Studio is installed on your system. You can download it from [LM Studio website](https://link-to-lm-studio).
+
+2. **Clone the repository:**
    ```bash
    git clone https://github.com/Amine-Kariouta/Keep-It-Safe.git
    cd Keep-It-Safe
    ```
 
-2. **Install Python dependencies:**
+3. **Install Python dependencies:**
    Navigate to the `api` folder and install the required packages:
    ```bash
    cd api
@@ -21,7 +22,7 @@ Keep It Safe is a Chrome extension designed to filter toxicity and negativity wh
    ```
 
 ### Extension Installation
-The extension is available on the Chrome Web Store. You can install it directly from the following link:
+The extension is available on the Chrome Web Store. You can install it directly from the following link:  
 [Keep It Safe on Chrome Web Store](https://chromewebstore.google.com/detail/keep-it-safe/pgaoojojkgmckjppegnpacaifghfofeo)
 
 ### Configuration for LM Studio
@@ -58,13 +59,16 @@ Keep It Safe est une extension Chrome conçue pour filtrer la toxicité et la n�
 
 ### Installation
 
-1. **Clonez le repository :**
+1. **Installez LM Studio**  
+   Assurez-vous que LM Studio est installé sur votre système. Vous pouvez le télécharger depuis le site [LM Studio](https://link-to-lm-studio).
+
+2. **Clonez le repository :**
    ```bash
    git clone https://github.com/Amine-Kariouta/Keep-It-Safe.git
    cd Keep-It-Safe
    ```
 
-2. **Installez les dépendances Python :**
+3. **Installez les dépendances Python :**
    Naviguez vers le dossier `api` et installez les packages nécessaires :
    ```bash
    cd api
@@ -72,7 +76,7 @@ Keep It Safe est une extension Chrome conçue pour filtrer la toxicité et la n�
    ```
 
 ### Installation de l'Extension
-L'extension est disponible sur le Chrome Web Store. Vous pouvez l'installer directement depuis le lien suivant :
+L'extension est disponible sur le Chrome Web Store. Vous pouvez l'installer directement depuis le lien suivant :  
 [Keep It Safe sur le Chrome Web Store](https://chromewebstore.google.com/detail/keep-it-safe/pgaoojojkgmckjppegnpacaifghfofeo)
 
 ### Configuration pour LM Studio
@@ -99,3 +103,4 @@ Pour configurer LM Studio pour ce projet :
 Pour toute question ou problème, veuillez utiliser la section [Issues GitHub](https://github.com/AmineKariouta/keep-it-safe/issues).
 
 Vous pouvez également me contacter sur [LinkedIn](https://linkedin.com/in/amine-kariouta).
+
