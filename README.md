@@ -46,7 +46,7 @@ To set up LM Studio for this project:
    ```
 
 ### Contact
-For any questions or issues, please use the [GitHub Issues](https://github.com/AmineKariouta/keep-it-safe/issues).
+For any questions or issues, please use the [GitHub Issues](https://github.com/Amine-Kariouta/keep-it-safe/issues).
 
 You can also connect with me on [LinkedIn](https://linkedin.com/in/amine-kariouta).
 
@@ -100,7 +100,7 @@ Pour configurer LM Studio pour ce projet :
    ```
 
 ### Contact
-Pour toute question ou problème, veuillez utiliser la section [Issues GitHub](https://github.com/AmineKariouta/keep-it-safe/issues).
+Pour toute question ou problème, veuillez utiliser la section [Issues GitHub](https://github.com/Amine-Kariouta/keep-it-safe/issues).
 
 Vous pouvez également me contacter sur [LinkedIn](https://linkedin.com/in/amine-kariouta).
 
