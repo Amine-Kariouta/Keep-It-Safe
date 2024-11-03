@@ -36,8 +36,6 @@ To set up LM Studio for this project:
 ### Usage
 
 1. **Start the Local Inference Server** in LM Studio:
-   - Open LM Studio and set the server port to `5002`.
-   - Ensure that CORS is enabled.
    - Start the server.
 
 2. **Start the APIs for Toxicity and Negativity Analysis**:
@@ -89,8 +87,6 @@ Pour configurer LM Studio pour ce projet :
 ### Utilisation
 
 1. **Démarrez le serveur d'inférence local** dans LM Studio :
-   - Ouvrez LM Studio et définissez le port du serveur sur `5002`.
-   - Assurez-vous que CORS est activé.
    - Démarrez le serveur.
 
 2. **Démarrez les APIs pour l'analyse de la toxicité et de la négativité** :
