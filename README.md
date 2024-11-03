@@ -20,10 +20,9 @@ Keep It Safe is a Chrome extension designed to filter toxicity and negativity wh
    pip install -r requirements.txt
    ```
 
-3. **Load the Unpacked Extension:**
-   - Navigate to `chrome://extensions/` in your Chrome browser.
-   - Enable **Developer mode**.
-   - Click on **Load unpacked** and select the folder containing all the files of the extension.
+### Extension Installation
+The extension is available on the Chrome Web Store. You can install it directly from the following link:
+[Keep It Safe on Chrome Web Store](https://chromewebstore.google.com/detail/keep-it-safe/pgaoojojkgmckjppegnpacaifghfofeo)
 
 ### Configuration for LM Studio
 
@@ -73,10 +72,9 @@ Keep It Safe est une extension Chrome conçue pour filtrer la toxicité et la n�
    pip install -r requirements.txt
    ```
 
-3. **Chargez l'extension non empaquetée :**
-   - Naviguez vers `chrome://extensions/` dans votre navigateur Chrome.
-   - Activez le **mode développeur**.
-   - Cliquez sur **Charger l'extension non empaquetée** et sélectionnez le dossier contenant tous les fichiers de l'extension.
+### Installation de l'Extension
+L'extension est disponible sur le Chrome Web Store. Vous pouvez l'installer directement depuis le lien suivant :
+[Keep It Safe sur le Chrome Web Store](https://chromewebstore.google.com/detail/keep-it-safe/pgaoojojkgmckjppegnpacaifghfofeo)
 
 ### Configuration pour LM Studio
 
@@ -103,3 +101,4 @@ Pour configurer LM Studio pour ce projet :
 
 ### Contact
 Pour toute question ou problème, veuillez utiliser la section [Issues GitHub](https://github.com/AmineKariouta/keep-it-safe/issues).
+
