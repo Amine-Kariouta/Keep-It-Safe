@@ -6,7 +6,7 @@ Keep It Safe is a Chrome extension designed to filter toxicity and negativity wh
 ### Installation
 
 1. **Install LM Studio**  
-   Make sure LM Studio is installed on your system. You can download it from [LM Studio website](https://link-to-lm-studio).
+   Make sure LM Studio is installed on your system. You can download it from [LM Studio website]([https://link-to-lm-studio](https://lmstudio.ai/)).
 
 2. **Clone the repository:**
    ```bash
@@ -60,7 +60,7 @@ Keep It Safe est une extension Chrome conçue pour filtrer la toxicité et la n�
 ### Installation
 
 1. **Installez LM Studio**  
-   Assurez-vous que LM Studio est installé sur votre système. Vous pouvez le télécharger depuis le site [LM Studio](https://link-to-lm-studio).
+   Assurez-vous que LM Studio est installé sur votre système. Vous pouvez le télécharger depuis le site [LM Studio]([https://link-to-lm-studio](https://lmstudio.ai/)).
 
 2. **Clonez le repository :**
    ```bash
