@@ -31,15 +31,14 @@ To set up LM Studio for this project:
 - **Server Port**: Set the server port to `5002`.
 - **CORS**: Enable Cross-Origin-Resource-Sharing (CORS).
 - **Prompt Formatting**: Turn ON to enable prompt formatting.
-- **Model**: Load the desired model in LM Studio.
-- **Prompt**: Use the provided `prompt.txt` file to configure the chatbot for appropriate responses.
+- **Model and Prompt**: Load the desired model in LM Studio and use the provided `prompt.txt` file to configure the chatbot for appropriate responses.
 
 ### Usage
 
 1. **Start the Local Inference Server** in LM Studio:
    - Open LM Studio and set the server port to `5002`.
    - Ensure that CORS is enabled.
-   - Load your preferred model and start the server.
+   - Start the server.
 
 2. **Start the APIs for Toxicity and Negativity Analysis**:
    - Run the Python script to start both APIs:
@@ -85,15 +84,14 @@ Pour configurer LM Studio pour ce projet :
 - **Port du serveur** : Définissez le port du serveur sur `5002`.
 - **CORS** : Activez le partage des ressources entre origines (CORS).
 - **Formatage du prompt** : Activez cette option pour appliquer le formatage du prompt.
-- **Modèle** : Chargez le modèle souhaité dans LM Studio.
-- **Prompt** : Utilisez le fichier `prompt.txt` fourni pour configurer le chatbot afin d'obtenir des réponses appropriées.
+- **Modèle et Prompt** : Chargez le modèle souhaité dans LM Studio et utilisez le fichier `prompt.txt` fourni pour configurer le chatbot afin d'obtenir des réponses appropriées.
 
 ### Utilisation
 
 1. **Démarrez le serveur d'inférence local** dans LM Studio :
    - Ouvrez LM Studio et définissez le port du serveur sur `5002`.
    - Assurez-vous que CORS est activé.
-   - Chargez votre modèle préféré et démarrez le serveur.
+   - Démarrez le serveur.
 
 2. **Démarrez les APIs pour l'analyse de la toxicité et de la négativité** :
    - Exécutez le script Python pour démarrer les deux APIs :
@@ -105,4 +103,3 @@ Pour configurer LM Studio pour ce projet :
 Pour toute question ou problème, veuillez utiliser la section [Issues GitHub](https://github.com/AmineKariouta/keep-it-safe/issues).
 
 Vous pouvez également me contacter sur [LinkedIn](https://linkedin.com/in/amine-kariouta).
-
